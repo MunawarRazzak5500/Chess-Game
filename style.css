@@ -1,0 +1,29 @@
+tr{
+    height: 80px;
+}
+table{
+    width: 800px;
+    font-size: 60px;
+}
+h1{
+    text-align: center;
+
+    
+}
+
+ td{
+        text-align: center;
+}
+.F>td:nth-child(even){
+    background-color: black;
+    color: white;
+}
+
+.S>td:nth-child(odd){
+    background-color: black;
+    color: white;
+}
+table{
+    margin:0 auto;
+
+}
